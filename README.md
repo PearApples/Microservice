@@ -10,4 +10,5 @@ How to RECEIVE data:
   Users will be prompted to either add a new safety rating in the form of a positive number, or be asked if they want to exit the program.
 
 UML Diagram:
+![UML_Diagram](https://github.com/PearApples/Microservice/assets/85377002/48aa7be7-37a0-4c15-9ed8-f0e00b47cc2a)
 
